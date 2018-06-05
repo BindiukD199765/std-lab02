@@ -1,7 +1,7 @@
 #include <iostream>
 
  using namespace std;
-
+//учебная практика
 int main()
  {
  int a, b;
